@@ -26,7 +26,7 @@ This automation exploit relies on standard Python 3 execution coupled with the `
 
 1. Clone or download this repository into your dedicated project folder:
 ```bash
-git clone https://github.com
+git clone https://github.com/mralex398-sketch/
 cd Time-Based-SQLi-Bruteforcer
 ```
 
